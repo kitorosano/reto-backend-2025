@@ -1,0 +1,9 @@
+[submodule "transaction-ms"]
+	path = transaction-ms
+	url = https://github.com/kitorosano/reto-backend-2025-transaction-ms
+[submodule "gateway-ms"]
+	path = gateway-ms
+	url = https://github.com/kitorosano/reto-backend-2025-gateway-ms
+[submodule "authentication-ms"]
+	path = authentication-ms
+	url = https://github.com/kitorosano/reto-backend-2025-authentication-ms
