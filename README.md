@@ -2,6 +2,18 @@
 
 Este desafío tiene como objetivo evaluar y potenciar las capacidades para el desarrollo backend.
 
+## Obtener modulos
+
+Para poder traer los datos de los demas repositorios configurados como modulos (authentication-ms, transaction-ms) es necesario la ejecución de los siguentes comandos:
+
+
+```bash
+git submodule update --init --recursive
+git submodule update --recursive --remote
+```
+
+> Hazlo desde la **raiz** del proyecto reto-backend-2025
+
 ## Detalles del reto:
 
 <b>Sistema de Gestión de Gastos Personales</b>
